@@ -1,0 +1,9 @@
+{
+  "name": "BUD",
+  "private": true,
+  "dependencies": {
+    "livebud": "0.2.8",
+    "svelte": "3.47.0",
+    "sveltestrap": "^5.10.0"
+  }
+}
